@@ -15,7 +15,6 @@ const xiAnImg = "/images/xian.jpg";        // 使用您的西安图片
 const guilinImg = "/images/guilin.jpg";      // 使用您的桂林图片
 const chengduImg = "/images/chengdu.jpg";     // 使用您的成都图片
 const hongkongImg = "/images/hongkong.jpg";    // 使用您的香港图片
-const bgImg = "/images/background.jpg";          // 使用您的背景图片
 
 import './Home.css';
 
